@@ -1,0 +1,11 @@
+# OS / IDE
+.DS_Store
+*.class
+out/
+bin/
+.idea/
+*.iml
+target/
+
+# Diary data
+diary/
